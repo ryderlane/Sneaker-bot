@@ -1,0 +1,7 @@
+discord.py
+aiohttp
+pytesseract
+python-dotenv
+Pillow
+google-cloud-vision
+scrapfly-sdk 
