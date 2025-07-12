@@ -1,2 +1,2 @@
-.env
-vision-key.json
+echo .env>> .gitignore
+echo vision-key.json>> .gitignore
